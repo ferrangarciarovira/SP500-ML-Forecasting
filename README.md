@@ -29,13 +29,13 @@ This project explores the predictive power of machine learning models in forecas
 
 ## Repository Structure
 
-- data
-- notebooks
-- reports
+- `data/`: contains match CSV and Excel files
+- `notebooks/`: main analysis notebook
+- `reports/`: final presentation (PDF)
 - requirements.txt
-- LICENSE
 - README.md
-
+- LICENSE
+  
 ## Tools & Libraries
 
 - `Python 3.10+`
