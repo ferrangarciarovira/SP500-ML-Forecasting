@@ -52,4 +52,4 @@ This project explores the predictive power of machine learning models in forecas
 - Joshua Gerstner
 - Jiaren Fu
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/ferrangarciarovira) or view more projects on [GitHub](https://github.com/ferrangarciarovira).
+Feel free to connect via [LinkedIn](https://www.linkedin.com/ferrangarciarovira/) or view more projects on [GitHub](https://github.com/ferrangarciarovira/).
