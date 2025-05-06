@@ -32,9 +32,9 @@ This project explores the predictive power of machine learning models in forecas
 - `data/`: contains match CSV and Excel files
 - `notebooks/`: main analysis notebook
 - `reports/`: final presentation (PDF)
-- requirements.txt
-- README.md
 - LICENSE
+- README.md
+- requirements.txt
   
 ## Tools & Libraries
 
