@@ -45,11 +45,4 @@ This project explores the predictive power of machine learning models in forecas
 
 ---
 
-## Authors
-
-- Ferran García Rovira
-- Gerard Álvarez
-- Joshua Gerstner
-- Jiaren Fu
-
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/ferrangarciarovira/) or view more projects on [GitHub](https://github.com/ferrangarciarovira).
